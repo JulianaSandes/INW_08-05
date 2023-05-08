@@ -17,3 +17,7 @@
  - npm create vite@latest aula1 -- --template react
 
 - npm run dev
+
+<p>
+<img src = "src/imagens/PAGINA.png"/>
+</p>
